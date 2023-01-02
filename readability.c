@@ -1,4 +1,5 @@
 // Return grade level of a string of text based on the Coleman-Liau Index
+// Uses helper functions from CS50 library
 
 #include <ctype.h>
 #include <cs50.h>
